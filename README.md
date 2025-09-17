@@ -2,7 +2,7 @@
 ### 🎓 Computer Science Student @ Silesian University of Technology  
 
 - 🔭 Currently working on: [Music Recommendation System](https://github.com/AdrianReszka/Music-Recommendation-System)  
-- 🌱 Learning: **React.js, Java, Azure**  
+- ⚡ Tech Stack: **Java, Spring Boot, SQL, Python, C#**  
 - 📫 Reach me at: **adrianreszka02@gmail.com**  
 
 ---
