@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adrian Reszka  
-### 🎓 Computer Science Student @ Silesian University of Technology  
+### 🎓 Computer Science Student at The Silesian University of Technology  
 
 - 🔭 Currently working on: [Music Recommendation System](https://github.com/AdrianReszka/Music-Recommendation-System)  
 - ⚡ Tech Stack: **Java, Spring Boot, SQL, Python, C#**  
