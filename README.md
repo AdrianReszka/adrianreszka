@@ -11,7 +11,7 @@
 - 🎓 **Academic Background**: 3rd-year Computer Science student, specializing in **Data Warehouses and Data Mining Systems**.  
 - 💻 **Interests**: Java & Spring Boot, Python (data analysis, ML/AI), C#/.NET, React.js.  
 - 📊 **Projects**:  
-  - 🎵 Music Recommendation System (Java + React + Spotify/Last.fm APIs)  
+  - 🎵 Music Recommendation System (Java + React + Spotify/Last.fm APIs) - in progress 
   - 🩺 Clinic REST API (Spring Boot)  
   - 📈 Stock Market Analysis (Python, Pandas, NumPy, Matplotlib)  
   - 🎨 Color Predictor (PyTorch CNN)  
