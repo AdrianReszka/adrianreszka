@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adrian Reszka  
+# 👋 Hi, I'm Adrian  
 ### 🎓 Computer Science Student at The Silesian University of Technology  
 
 - 🔭 Currently working on: [Music Recommendation System](https://github.com/AdrianReszka/Music-Recommendation-System)  
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Academic Background**: 3rd-year Computer Science student, specializing in **Data Warehouses and Data Mining Systems**.  
+- 🎓 **Academic Background**: 4th-year Computer Science student, specializing in **Data Warehouses and Data Mining Systems**.  
 - 💻 **Interests**: Java & Spring Boot, Python (data analysis, ML/AI), C#/.NET, React.js.  
 - 📊 **Projects**:  
   - 🎵 Music Recommendation System (Java + React + Spotify/Last.fm APIs) - in progress 
