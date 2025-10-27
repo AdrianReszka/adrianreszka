@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Academic Background**: 4th-year Computer Science student, specializing in **Data Warehouses and Data Mining Systems**.  
+- 🎓 **Academic Background**: 4th - year Computer Science student, specializing in **Data Warehouses and Data Mining Systems**.  
 - 💻 **Interests**: Java & Spring Boot, Python (data analysis, ML/AI), C#/.NET, React.js.  
 - 📊 **Projects**:  
   - 🎵 Music Recommendation System (Java + React + Spotify/Last.fm APIs) - in progress 
